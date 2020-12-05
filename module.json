@@ -15,6 +15,6 @@
     }
   ],
   "url": "https://www.patreon.com/spellarena",
-  "manifest": "http://themadcartographer.com/downloads/freebies/FoundryVTT/module.json",
-  "download": "http://themadcartographer.com/downloads/freebies/FoundryVTT/MAD-FREE-FVTT-Map-Pack.zip"
+  "manifest": "https://raw.githubusercontent.com/Saltanis/spellarena/master/module.json?token=AQUJU3AUKRAQ3ANZTVDL7JC7ZO2FO",
+  "download": "https://github.com/Saltanis/spellarena/archive/master.zip"
 }
