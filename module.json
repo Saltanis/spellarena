@@ -1,0 +1,20 @@
+{
+  "name": "spellarena",
+  "title": "Spellarena | Battlemap Pack",
+  "description": "<p>Tutaj wpiszcie swój opis.</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.6",
+  "compatibleCoreVersion": "0.7.8",
+  "author": "Spellarena",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Spellarena | Battlemap",
+      "path": "/packs/maps.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/spellarena",
+  "manifest": "http://themadcartographer.com/downloads/freebies/FoundryVTT/module.json",
+  "download": "http://themadcartographer.com/downloads/freebies/FoundryVTT/MAD-FREE-FVTT-Map-Pack.zip"
+}
