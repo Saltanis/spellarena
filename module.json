@@ -15,6 +15,6 @@
     }
   ],
   "url": "https://www.patreon.com/spellarena",
-  "manifest": "https://raw.githubusercontent.com/Saltanis/spellarena/master/module.json?token=AQUJU3AUKRAQ3ANZTVDL7JC7ZO2FO",
+  "manifest": "https://github.com/Saltanis/spellarena/raw/master/module.json",
   "download": "https://github.com/Saltanis/spellarena/archive/master.zip"
 }
